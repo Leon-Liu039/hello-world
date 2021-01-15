@@ -1,2 +1,5 @@
 # hello-world
-My first repository on Github
+
+Hey, everyone!
+
+Here is Leon Liu. And I'm here to enjoy myself. Happy coding!
